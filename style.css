@@ -1,0 +1,17 @@
+.swatch {
+  height: 100px;
+  width: 100px;
+  margin: 15px;
+}
+
+figure {
+  display: flex;
+}
+
+body {
+  background-color: #332f35;
+}
+
+h3 {
+  color: whitesmoke
+}
